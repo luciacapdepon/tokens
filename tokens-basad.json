@@ -1,0 +1,54 @@
+{
+  "global": {
+    "Base": {
+      "purple-100": {
+        "value": "#faeaff",
+        "type": "color"
+      },
+      "purple-200": {
+        "value": "#f3d2ff",
+        "type": "color"
+      },
+      "purple-300": {
+        "value": "#e9aaff",
+        "type": "color"
+      },
+      "purple-400": {
+        "value": "#da6fff",
+        "type": "color"
+      },
+      "purple-500": {
+        "value": "#cc3aff",
+        "type": "color"
+      },
+      "purple-600": {
+        "value": "#af00ec",
+        "type": "color"
+      },
+      "purple-700": {
+        "value": "#9400c9",
+        "type": "color"
+      },
+      "purple-800": {
+        "value": "#6d0094",
+        "type": "color"
+      }
+    },
+    "Especificos": {
+      "color-backgroung-btn-disable": {
+        "value": "{Base.purple-100}",
+        "type": "color"
+      },
+      "color-background-btn-default": {
+        "value": "{Base.purple-400}",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
